@@ -1,0 +1,6 @@
+target/classes
+target/test-reports
+.DS_Store
+out
+.idea/workspace.xml
+s101plugin.state
